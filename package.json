@@ -21,7 +21,7 @@
   "module": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/d3/d3.git"
+    "url": "https://github.com/kmp52k/d3.git"
   },
   "scripts": {
     "pretest": "rimraf dist && mkdir dist && json2module package.json > dist/package.js && node rollup.node",
