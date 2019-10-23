@@ -40,10 +40,11 @@
   },
   "dependencies": {
     "d3-array": "1",
+    "d3-axis": "1",
     "d3-interpolate": "1",
     "d3-scale": "2",
     "d3-selection": "1",
-	"d3-shape": "1",
+    "d3-shape": "1",
     "d3-transition": "1"
   }
 }
